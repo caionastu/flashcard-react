@@ -1,0 +1,6 @@
+export { default as HomePage } from './HomePage'
+export { default as DecksPage } from './DecksPage'
+export { default as CardsPage } from './CardsPage'
+export { default as ManageCards } from './CardsPage/ManageCards'
+export { default as StudyNow } from './CardsPage/StudyNow'
+export { default as Settings } from './CardsPage/SettingsPage'
